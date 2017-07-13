@@ -21,5 +21,14 @@
     "commander": "^2.11.0",
     "mkdirp": "^0.5.1",
     "swig": "^1.4.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CooLNuanfeng/webstart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CooLNuanfeng/webstart/issues"
+  },
+  "homepage": "https://github.com/CooLNuanfeng/webstart#readme"
 }
