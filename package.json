@@ -1,0 +1,25 @@
+{
+  "name": "webstart",
+  "version": "1.0.0",
+  "description": "start web or app init file(s)",
+  "main": "index.js",
+  "bin": {
+    "webstart": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "start",
+    "mobile",
+    "pc"
+  ],
+  "author": "nuanfeng",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "mkdirp": "^0.5.1",
+    "swig": "^1.4.2"
+  }
+}
