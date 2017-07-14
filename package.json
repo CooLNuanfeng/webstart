@@ -1,7 +1,7 @@
 {
   "name": "webstart",
-  "version": "1.0.0",
-  "description": "start web or app init file(s)",
+  "version": "1.0.1",
+  "description": "快速开始一个最基本的web项目",
   "main": "index.js",
   "bin": {
     "webstart": "./index.js"
